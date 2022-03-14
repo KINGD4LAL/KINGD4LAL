@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamzah Dalal
-- 👀 I’m interested in developing Software as a hobby of mine as well as studying to become a Software engieer
+- 👀 I’m interested in developing Software as a hobby of mine as well as studying to become a Software engineer
 - 🌱 I’m currently learning Java and trying to really develop my skills in the language, as well as learning MySQL and other coding languages
 - 📫 How to reach me - You can contact me using my LinkedIn account linked here --> www.linkedin.com/in/hamzah-dalal-522869214
 
